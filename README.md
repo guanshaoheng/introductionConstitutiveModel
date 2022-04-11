@@ -1,3 +1,10 @@
+# introductionConstitutiveModel
+author: shaoheng guan
+email: shaohengguan@gmail.com
+
+A brief introduction of the constitutive model.
+
+
 # WHU-Beamer-Theme
  A Beamer Theme of WHU for academic report, thesis and talk.
 
