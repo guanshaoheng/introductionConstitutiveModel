@@ -1,6 +1,6 @@
 # introductionConstitutiveModel
-author: shaoheng guan
-email: shaohengguan@gmail.com
+Author: shaoheng guan
+Email: shaohengguan@gmail.com
 
 A brief introduction of the constitutive model.
 
